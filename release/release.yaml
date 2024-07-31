@@ -10,6 +10,6 @@ spec:
   releaseName: contoso-sports
   chart:
     spec:
-      chart: ./contoso-sports/chart
+      chart: ./chart
       valuesFiles:
-        - ./contoso-sports/chart/values.yaml
+        - ./chart/values.yaml
